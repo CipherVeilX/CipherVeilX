@@ -22,6 +22,17 @@
 
 ---
 
+### <img src="https://api.iconify.design/mdi/target.svg?color=%2339FF14" width="24" height="24"/> Training Platforms
+
+<div align="center">
+
+![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=39FF14)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=39FF14)
+
+</div>
+
+---
+
 ### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2339FF14" width="24" height="24"/> GitHub Stats
 
 <div align="center">
@@ -43,6 +54,16 @@
 
 ---
 
+### <img src="https://api.iconify.design/mdi/pulse.svg?color=%2339FF14" width="24" height="24"/> Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CipherVeilX&bg_color=0A0A0A&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=false" width="90%"/>
+
+</div>
+
+---
+
 ### <img src="https://api.iconify.design/mdi/handshake.svg?color=%2339FF14" width="24" height="24"/> Connect With Me
 
 <div align="center">
@@ -51,3 +72,5 @@
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:cipher@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:000000&height=100&section=footer" width="100%"/>
