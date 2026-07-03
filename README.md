@@ -4,7 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0A0A0A&center=true&vCenter=true&width=650&height=45&lines=Blue+Team+Enthusiast;Always+Learning;Building+Practical+Cybersecurity+Skills" />
 
+[![Profile Views](https://komarev.com/ghpvc/?username=CipherVeilX&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge)](https://github.com/CipherVeilX)
+
 </div>
+
+---
+
+### <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2339FF14" width="24" height="24"/> About Me
+
+Aspiring cybersecurity enthusiast focused on Blue Team operations, digital forensics, and AI-driven security.
 
 ---
 
@@ -17,17 +25,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=39FF14)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=39FF14)
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=39FF14)
-
-</div>
-
----
-
-### <img src="https://api.iconify.design/mdi/target.svg?color=%2339FF14" width="24" height="24"/> Training Platforms
-
-<div align="center">
-
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=39FF14)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=39FF14)
 
 </div>
 
@@ -70,6 +67,17 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/cipherveilx)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:cipher@gmail.com)
+
+</div>
+
+---
+
+### <img src="https://api.iconify.design/mdi/target.svg?color=%2339FF14" width="24" height="24"/> Training Platforms
+
+<div align="center">
+
+![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=39FF14)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=39FF14)
 
 </div>
 
