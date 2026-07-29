@@ -45,7 +45,7 @@ Aspiring cybersecurity enthusiast focused on Blue Team operations, digital foren
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=CipherVeilX&background=0A0A0A&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=2E7D32&currStreakNum=39FF14&sideNums=39FF14&hide_border=false" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=CipherVeilX" width="70%"/>
 
 </div>
 
